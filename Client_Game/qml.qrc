@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/MainMenuScreen.qml</file>
+        <file>ui/ButtonGame.qml</file>
+        <file>ui/GameSelectScreen.qml</file>
+        <file>ui/LobbyScreen.qml</file>
+        <file>ui/JoinLobbyScreen.qml</file>
+        <file>ui/DrawSceen.qml</file>
+        <file>ui/WaitingForPlayrsScreen.qml</file>
+        <file>ui/Drawing_InstructionScreen.qml</file>
+        <file>ui/VoteScreen.qml</file>
+        <file>ui/WinnerScreen.qml</file>
+    </qresource>
+</RCC>
